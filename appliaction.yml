@@ -11,8 +11,4 @@ eureka:
     serviceurl:
       defaultZone: http://localhost:8761/eureka/
 env: 
-  dev
-age: 
-  18
-name: 
-  zs       
+  dev    
