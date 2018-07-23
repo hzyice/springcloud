@@ -6,7 +6,7 @@ zuul:
 #      path: /myproduct/**
 #      serviceId: product
     bbbbbb:
-      path: /Aorder/**
+      path: /Border/**
       serviceId: order
       # sensitiveHeaders: 敏感头    值设置为空。 这样Cookie就能通过路由传递给后台
       sensitiveHeaders:
